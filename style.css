@@ -5,7 +5,7 @@ body {
     font-size: calc(10px + 0.33vw);
     -webkit-font-smoothing: antialiased;
     padding: 5vh 10vw;
-    color: #121314;
+    color: #3a795e;
   }
 
   h1 {
@@ -30,7 +30,7 @@ body {
 
   a {
     text-decoration: none;
-    color: #3a795e;
+    color: #121314;
     position: relative;
   }
 
