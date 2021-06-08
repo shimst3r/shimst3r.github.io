@@ -5,7 +5,7 @@ body {
     font-size: calc(10px + 0.33vw);
     -webkit-font-smoothing: antialiased;
     padding: 5vh 10vw;
-    color: #3a795e;
+    color: #121314;
   }
 
   h1 {
@@ -43,7 +43,7 @@ body {
     right: -0.1em;
     bottom: 0;
     transition: top 200ms cubic-bezier(0, 0.8, 0.13, 1);
-    background-color: rgba(255, 111, 0, 0.5);
+    background-color: rgba(58, 121, 94, 0.5);
   }
 
   a:hover:after {
